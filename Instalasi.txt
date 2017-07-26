@@ -1,0 +1,2 @@
+Copy All File and Folder without folder img22 into Path D:\Pemrograman\Desktop Programing\Project\*here*
+Copy Folder img22 into Path D:\*here*
